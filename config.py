@@ -8,7 +8,7 @@ class Config(object):
     # Telegram API ki hash key
     API_HASH = "3a2408d97d6a222d87766dac2da302df"
     # Admin users ki IDs (comma se separate ki hui)
-    ADMIN = '5357048091'.split(',')
+    ADMIN = '1671836568'.split(',')
     # Admin IDs ko integer list mein convert karna
     ADMIN_ID = [int(id) for id in ADMIN]
     # MongoDB database ka URL
@@ -16,19 +16,19 @@ class Config(object):
     # Database ka naam
     DB_NAME = "Cluster0"
     # Text log channel ki ID
-    TXT_LOG = -1002166446304
+    TXT_LOG = -1003656456459
     # Authentication log channel ki ID
-    AUTH_LOG = -1002166446304
+    AUTH_LOG = -1003656456459
     # Hit log channel ki ID
-    HIT_LOG = -1002166446304
+    HIT_LOG = -1003656456459
     # DRM dump channel ki ID
-    DRM_DUMP = -1002166446304
+    DRM_DUMP = -1003656456459
     # Main channel ki ID
-    CHANNEL = -1002417474258
+    CHANNEL = -1003656456459
     # Channel ka link
-    CH_URL = "https://t.me/mytestingbyanni"
+    CH_URL = "https://t.me/+tdDh9wC1Mxo3ZjI1"
     # Bot ke owner ka Telegram link
-    OWNER = "https://t.me/RaolSaheb"
+    OWNER = "https://t.me/+tdDh9wC1Mxo3ZjI1"
     # Thumbnail image ka URL
     THUMB_URL = "https://te.legra.ph/file/11366447de3410810a383-d29ae883f7add39f2a.jpg" #Replace by with your Thumb URL
     # API host ka URL
